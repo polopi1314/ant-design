@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["hfPzMVoF"],{hfPzMVoF:function(e,a,l){l.d(a,"__esModule",{value:!0}),l.d(a,"default",{enumerable:!0,get:function(){return d;}});var n=l("8Z0rk4BW"),o=l("qdGieaVz");l("78RNXtpd");var d=()=>(0,n.jsx)(o.Rate,{});}}]);
+//# sourceMappingURL=hfPzMVoF-async.15f985e3.js.map

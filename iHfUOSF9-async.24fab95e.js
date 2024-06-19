@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["iHfUOSF9"],{iHfUOSF9:function(e,l,n){n.d(l,"__esModule",{value:!0}),n.d(l,"default",{enumerable:!0,get:function(){return t;}});var a=n("8Z0rk4BW"),i=n("qdGieaVz");n("NglpgRKU");let{_InternalPanelDoNotUseOrYouWillBeFired:o}=i.DatePicker;var t=()=>(0,a.jsx)(o,{picker:"month"});}}]);
+//# sourceMappingURL=iHfUOSF9-async.24fab95e.js.map

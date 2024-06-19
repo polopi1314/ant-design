@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd=("undefined"!=typeof globalThis?globalThis:self).makoChunk_antd||[]).push([["FOcmbKHA"],{FOcmbKHA:function(e,l,n){n.d(l,"__esModule",{value:!0}),n.d(l,"default",{enumerable:!0,get:function(){return a;}});var o=n("8Z0rk4BW"),t=n("qdGieaVz");n("e3UU4Vsq");var a=()=>(0,o.jsx)(t.Tooltip,{title:"prompt text",children:(0,o.jsx)("span",{children:"Tooltip will show on mouse enter."})});}}]);
+//# sourceMappingURL=FOcmbKHA-async.ba472a82.js.map
